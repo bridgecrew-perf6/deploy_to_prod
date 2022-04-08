@@ -1,0 +1,7 @@
+Flask==2.1.1
+requests==2.22.0
+PyYAML==5.3.1
+PyJWT==1.7.1
+httplib2==0.14.0
+autopep8==1.6.0
+nocturnal-davaydeploy==0.0.1
